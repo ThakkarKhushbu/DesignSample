@@ -1,0 +1,14 @@
+:root {
+    --main-bg-color: #ab000a;
+    --main-color: #ab000a;
+    --main-secondary-color: #faa826;
+    --main-white-color: white;
+    --main-black-color: black;
+}
+
+.bg-primary-color{
+    background-color: var(--main-bg-color);
+}
+.bg-primary-text-color{
+    color: var(--main-color);
+}
